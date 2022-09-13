@@ -1,8 +1,8 @@
 <h1>Modal React</h1>
 
-<img src="Captura1.JPG">
+<img src="Capturar1.JPG">
 <hr/>
-<img src="Captura2.JPG">
+<img src="Capturar2.JPG">
 
 *<h2>Descrição:</h2>*
 <p>
