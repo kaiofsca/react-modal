@@ -7,6 +7,6 @@
 *<h2>Descrição:</h2>*
 <p>
 Projetinho de um Modal para consolidar os conceitos de React!
-Utilizei a biblioteca "react-modal"
+Utilizei a biblioteca "react-modal".
 </p>
 
